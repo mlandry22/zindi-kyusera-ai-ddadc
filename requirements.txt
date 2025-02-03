@@ -1,0 +1,17 @@
+cv2
+gradio_client
+huggingface_hub
+matplotlib
+mistralai
+numpy
+pandas
+PIL
+rasterio
+requests
+seaborn
+shapely
+squarify
+together
+torch
+transformers
+ultralytics
