@@ -3,14 +3,14 @@
   * DONE
     * munging, JPG
     * munging, adjust training images
-  * ADD
     * gradio public HF space
+  * ADD
     * munging: zoom left/right
     * munging: all processes to pick up and combine/calculate files
     * munging: athena process for CSV to counts
   * FIX 
     * Loop through all three VLM notebooks to get files in same format as VLLM
-    * Get precise VLLM prompt
+    * Get precise VLLM prompt (posted)
     * Parsing function from prompt to text
 * full process
   * script to run everything in proper order
