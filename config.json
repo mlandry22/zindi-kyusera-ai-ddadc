@@ -1,0 +1,12 @@
+{
+    "test_image_location": "data/test/original_tif",
+    "cropped_jpg_location": "data/test/cropped_jpg",
+    "train_folder":"data/train/xview2_geotiff/geotiffs/subset_00000000",
+    "hugging_face_key_file": "keys/HUGGING_FACE_API_KEY.txt",
+    "mistral_api_key_file": "keys/MISTRAL_API_KEY.txt",
+    "together_api_key_file": "keys/TOGETHER_API_KEY.txt",
+    "fireworks_api_key_file": "keys/FIREWORKS_API_KEY.txt",
+    "models_base_location": "./",
+    "sample_submission_location": "data/",
+    "intermediate_submission_location": "submissions/"
+}
