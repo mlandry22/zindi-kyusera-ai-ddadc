@@ -1,6 +1,7 @@
 {
     "test_image_location": "data/test/original_tif",
     "cropped_jpg_location": "data/test/cropped_jpg",
+    "cropped_pairs_location": "data/test/cropped_pairs",
     "train_folder":"data/train/xview2_geotiff/geotiffs/subset_00000000",
     "hugging_face_key_file": "keys/HUGGING_FACE_API_KEY.txt",
     "mistral_api_key_file": "keys/MISTRAL_API_KEY.txt",
